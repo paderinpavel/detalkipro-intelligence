@@ -1,0 +1,18 @@
+{
+  "part_id": "DPI-001",
+  "original_hash": "8d0ef9310fe85c42a78bb06d1c62098c8c0b296580c7a449c8f1e5b7058152a7",
+  "specifications": {
+    "model": "XYZ-100",
+    "type": "LED_driver"
+  },
+  "history": [
+    {
+      "event": "received",
+      "location": "PVS-05",
+      "engineer": "Ivanov",
+      "timestamp": "2026-10-24T03:43:43.544425+03:00",
+      "evidence": "photo_001.jpg"
+    }
+  ],
+  "signature": "engineer_signature_placeholder"
+}
